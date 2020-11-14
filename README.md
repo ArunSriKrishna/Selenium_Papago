@@ -11,24 +11,24 @@ Requires ChromeDriver and Selenium Package.<br>
 ### Usage
 - Initialize source-language and target-language according to keys in the dictionary
 
-|Language Code|	Keys|
+|	Keys|Language Code
 |----|----|
-|auto| Detect Language|
-|ko|	Korean|
-|en|	English|
-|ja|	Japanese|
-|zh-CN|	Chinese Simplified|
-|zh-TW|	Chinese Traditional|
-|es|	Spanish|
-|fr|	French|
-|de|	German|
-|ru|	Russian|
-|pt|	Portuguese|	
-|it|	Italian|
-|vi|	Vietnamese|
-|th|	Thai|
-|id|	Indonesian|	
-|hi|	Hindi|
+| Detect Language|auto|
+|	Korean|ko|
+|	English|en|
+|	Japanese|ja|
+|	Chinese Simplified|zh-CN|
+|Chinese Traditional|zh-TW|	
+|	Spanish|es|
+|	French|fr|
+|	German|de|
+|	Russian|ru|
+|	Portuguese|	pt|
+|	Italian|it|
+|	Vietnamese|vi|
+|	Thai|th|
+|	Indonesian|id|	
+|	Hindi|hi|
 
 - Assign the filepath of Chrome Driver  to <i>chromedriver_filepath</i> 
 - Assign the filepath of Source textfile to <i>source_filepath</i>
