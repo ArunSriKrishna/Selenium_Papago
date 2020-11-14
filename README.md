@@ -30,6 +30,6 @@ Requires ChromeDriver and Selenium Package.<br>
 |id|	Indonesian|	
 |hi|	Hindi|
 
-- Assign the filepath of Chrome Driver  to <pre>chromedriver_filepath</pre> 
-- Assign the filepath of Source textfile to <pre>source_filepath</pre>
-- Assign the Directory for Output textfile to <pre>output_dir</pre>
+- Assign the filepath of Chrome Driver  to <i>chromedriver_filepath</i> 
+- Assign the filepath of Source textfile to <i>source_filepath</i>
+- Assign the Directory for Output textfile to <i>output_dir</i>
