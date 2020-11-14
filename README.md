@@ -11,7 +11,7 @@ Requires ChromeDriver and Selenium Package.<br>
 ### Usage
 - Initialize source-language and target-language according to keys in the dictionary
 
-|	Keys|Language Code
+- |	Keys|Language Code|
 |----|----|
 | Detect Language|auto|
 |	Korean|ko|
