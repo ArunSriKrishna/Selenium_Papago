@@ -6,13 +6,12 @@ A Python-Selenium Script to translate text from a textfile using Naver Papago
 ### Prerequisites
 Requires ChromeDriver and Selenium Package.<br>
 - Download the ChromeDriver for your Chrome version: https://chromedriver.chromium.org/<br>
-- <pre>$ pip install selenium</pre>
+- Install Selenium <pre>$ pip install selenium</pre>
 
 
 ### Usage
 Initialize source-language and target-language according to keys in the dictionary
 
-#### 
 |Language Code|	Keys|
 |----|----|
 |auto| Detect Language|
