@@ -14,7 +14,6 @@ Requires ChromeDriver and Selenium Package.<br>
 - Assign the filepath of Source textfile to <i>source_filepath</i>
 - Assign the Directory for Output textfile to <i>output_dir</i>
 
-<br>
 
 ### language_code Dictionary
 |	Keys|Language Code|
