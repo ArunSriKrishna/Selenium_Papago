@@ -9,7 +9,7 @@ Requires ChromeDriver and Selenium Package.<br>
 - Install Selenium using pip <pre>$ pip install selenium</pre>
 
 ### Usage
-- Initialize source-language and target-language according to keys in the dictionary
+- Assign source-language and target-language according to keys in the dictionary
 - Assign the filepath of Chrome Driver  to <i>chromedriver_filepath</i> 
 - Assign the filepath of Source textfile to <i>source_filepath</i>
 - Assign the Directory for Output textfile to <i>output_dir</i>
