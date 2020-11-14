@@ -10,8 +10,12 @@ Requires ChromeDriver and Selenium Package.<br>
 
 ### Usage
 - Initialize source-language and target-language according to keys in the dictionary
+- Assign the filepath of Chrome Driver  to <i>chromedriver_filepath</i> 
+- Assign the filepath of Source textfile to <i>source_filepath</i>
+- Assign the Directory for Output textfile to <i>output_dir</i>
 
-- |	Keys|Language Code|
+### language_code Dictionary
+|	Keys|Language Code|
 |----|----|
 | Detect Language|auto|
 |	Korean|ko|
@@ -29,7 +33,3 @@ Requires ChromeDriver and Selenium Package.<br>
 |	Thai|th|
 |	Indonesian|id|	
 |	Hindi|hi|
-
-- Assign the filepath of Chrome Driver  to <i>chromedriver_filepath</i> 
-- Assign the filepath of Source textfile to <i>source_filepath</i>
-- Assign the Directory for Output textfile to <i>output_dir</i>
