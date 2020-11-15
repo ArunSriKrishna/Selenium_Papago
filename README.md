@@ -13,7 +13,7 @@ Requires ChromeDriver and Selenium Package.<br>
 - Assign the filepath of Chrome Driver  to <i>chromedriver_filepath</i> 
 - Assign the filepath of Source textfile to <i>source_filepath</i>
 - Assign the Directory for Output textfile to <i>output_dir</i>
-- Execute the script!
+- Execute the script
 
 
 ### language_code Dictionary
