@@ -1,6 +1,6 @@
 # Selenium_Papago
 <img width="500" src="https://raw.githubusercontent.com/scottgigante/NaverTTS/master/papago.svg?sanitize=true" style="max-width:100%;">
-A Python-Selenium Script to translate text from a textfile using Naver Papago
+A Python-Selenium Script to translate text from a textfile by web-scraping using Naver Papago without using the Naver API
 
 
 ### Prerequisites
